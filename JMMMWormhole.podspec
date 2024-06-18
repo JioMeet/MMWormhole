@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   
   s.default_subspec = 'Core'
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '12.0'
   s.osx.deployment_target = '10.10'
   s.watchos.deployment_target = '2.0'
   
